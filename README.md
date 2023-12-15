@@ -1,5 +1,5 @@
-### Hello there. 
+## Hello there. 
 
-##  I`m Alexey, the student of SPbPU, 1st course of Radio Engineering.
+####  I`m Alexey, the student of SPbPU, 1st course of Radio Engineering.
 
-## This is my study account. Now i`m learning Python and improving my programming skills.
+#### This is my study account. Now i`m learning Python and improving my programming skills.
